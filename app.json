@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/EvamariaTG/EvaMaria",
-    "repository": "https://github.com/itsyogieu/EvaMaria",
+    "website": "https://github.com/ydhdggd/TechMagazine-AutoFilterBot",
+    "repository": "https://github.com/ydhdggd/TechMagazine-AutoFilterBot",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
